@@ -5,79 +5,50 @@
 <br>
 
 
-<a href="https://www.linkedin.com/xxxxxxxxx">
+<a href="https://www.linkedin.com/in/busra-demet-930405217/>
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://xxxxxxxx.github.io/">
+<a href="https://github.com/DMTBusra">
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-</a>
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-</a>
-
-
-<a>
-  <img align="left" alt="aaron-clarusway" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a>
   
-<img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
+
 
 <br>
 <br>
 
- I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, MySQL, PostgreSQL React, Javascript, AWS, DevOps etc.
+ I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working  with include Django, PostgreSQL React, Javascript etc.
  
-**Personal Stuffs:**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***<br>
+🏠 I’m currently living at Kütahya, in Turkey <br>
+👨‍💻 I’m currently working as a Jr. Full-stack Developer.<br>
+🌱 I’m currently learning English 🤦‍♂.<br>
+📫 How to reach me **gencbusra4325@gmail.com**
 
-- 👨🏽‍💻 I'm currently working on  Backend Development;
-- 🌱 I'm currently learning Everything; 
-- 👯 I'm looking to collaborate.... ;
-- 🤔 I'm looking for help with statistics ;
-- 💬 Ask me about: Python and Web development;
-- ⚡️ Fun-Fact: lots of fun facts;
-- 📫 How to reach me: [Contact](email)
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DMTBusra&show_icons=true&locale=en&layout=compact" alt="DMT" /></p>
 
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DMTBusra&show_icons=true&locale=en" alt="DMT" /></p>
+
+</br>
+</br>
 <br />
+ <h2>🛠 &nbsp;Tech Stack</h2>
+<p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/tools2.png"></p>
+<p><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/tools.png"></p>
 
+<i>Follow me around the web:</i><br>
 
-**Languages and Tools:**  
+<p align="left">
+<a target="_blank" href="https://www.linkedin.com/in/busra-demet-930405217/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+<br>
+<a href="href="https://www.linkedin.com/in/busra-demet-930405217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DMT" height="30" width="40" /></a>
+<br>
+  <a target="_blank" href="https://www.linkedin.com/in/busra-demet-930405217/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+</div>
 
-<br />
+<p align="right"><img src="https://github.com/D1183-Mustafa/D1183-Mustafa/blob/main/kedi.gif" width="70px"> <img src="https://komarev.com/ghpvc/?username=DMTBusra"            alt="dmt" /> </p>
   
