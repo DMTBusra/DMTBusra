@@ -5,7 +5,7 @@
 <br>
 
 
-<a href="https://www.linkedin.com/in/busra-demet-930405217/>
+<a href="https://www.linkedin.com/in/busra-demet/>
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
